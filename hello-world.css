@@ -1,0 +1,30 @@
+/* Hello World CSS */
+
+/* don't forget to validate at https://jigsaw.w3.org/css-validator/ */
+
+body {
+  background: url("outdoor.jpg");
+  width 100%;
+  height: 100vh;
+
+   /* trick to make the "page" the full height */
+}
+
+p {
+    font-size: 3em;
+    color: black;
+}
+
+div {
+  width: 100%;
+  border: 5px solid black;
+  margin: 10;
+}
+p {
+  font-style: : "Arial Black", Times, black;
+}
+img{
+  width: 100%;
+  height: 45vh;
+  border: 5px solid black;
+}
